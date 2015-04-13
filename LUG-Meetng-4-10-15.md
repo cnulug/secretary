@@ -11,9 +11,8 @@ Elections should be advertised and elected personal should be mailed out for ope
 * Vice Presedent - Jake Hayhurst
 * Secretary - Resolve Later
 * Offical Pinguin Mascot - Jake Tarren (Exicutive Order by presedent)
-* Tresurer - Jonah
+* Treasurer - Jonah
 
 ##Fundraiser
 * Selling thumbdrives to fundraise	
 * Putting Lug OS on the thumbdrives to sell
-	
