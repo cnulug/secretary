@@ -16,11 +16,11 @@
 
 *Before connecting to an IRC channel, you will need an IRC client:*
 
-[XChat](http://xchat.org) - A Linux client with a GUI
-[HexChat](https://hexchat.github.io) - A Windows client with a GUI
+- [XChat](http://xchat.org) - A Linux client with a GUI
+- [HexChat](https://hexchat.github.io) - A Windows client with a GUI
 
-[irssi](http://irssi.org) - A Unix (Mac, Linux, BSD, etc.) client for the terminal
-[ircII](http://www.eterna.com.au/ircii) - A Unix (Mac, Linux, BSD, etc.) client for the terminal with DCC support
+- [irssi](http://irssi.org) - A Unix (Mac, Linux, BSD, etc.) client for the terminal
+- [ircII](http://www.eterna.com.au/ircii) - A Unix (Mac, Linux, BSD, etc.) client for the terminal with DCC support
 
 To join the channel, open your IRC client of choice, connect to the server irc.freenode.net
 and join the channel #cnulug.
